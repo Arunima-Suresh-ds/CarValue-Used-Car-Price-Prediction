@@ -1,5 +1,5 @@
 
-##CarValue -Used-Car-Price-Prediction
+## CarValue -Used-Car-Price-Prediction
 
 
 
@@ -10,7 +10,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-2E7D32)
 
 
-**End-to-end machine learning solution for predicting used car resale prices using advanced regression models and data-driven insights.
+** End-to-end machine learning solution for predicting used car resale prices using advanced regression models and data-driven insights.
 
 ##  Project Overview
 This project focuses on predicting the **selling price of used cars** using machine learning regression techniques.  
